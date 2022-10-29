@@ -1,0 +1,8 @@
+click==8.0.3
+typing-extensions==4.0.1
+
+black==21.12b0
+kafka-python==2.0.2
+Flask~=2.2.0
+pymongo~=4.3.2
+structlog~=22.1.0
